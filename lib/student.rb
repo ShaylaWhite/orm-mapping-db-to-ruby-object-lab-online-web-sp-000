@@ -51,6 +51,7 @@ end
     FROM students
     WHERE grade > 12
 end
+end
   
   def save
     sql = <<-SQL
